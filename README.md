@@ -75,8 +75,8 @@ The dataset used in this project is the **Online Retail** dataset from the **UCI
 project/
 │
 ├── Online Retail.csv              # Source dataset (CSV file)
-├── schema.sql                      # SQL schema definition for SQLite database
-├── analysis_queries.sql            # Comprehensive SQL analysis queries
+├── schema.sql                     # SQL schema definition for SQLite database
+├── analysis_queries.sql           # Comprehensive SQL analysis queries
 ├── load_data.py                   # Python script to create DB and load CSV data
 ├── run_analysis.py                # Python script to execute analyses and generate outputs
 ├── requirements.txt               # Python package dependencies
